@@ -14,11 +14,14 @@ Esse repo tem o objetivo de mostrar como enviar mensagem para o Microsoft Teams 
 ## Como configurar webhook no Teams?
 1 - Crie um canal
 
+
 2 - Abra um incoming-webhook
 ![image](assets/webhook.png)
 
+
 3 - Adicione um nome para o Bot
 ![image](assets/name.png)
+
 
 4 - Copie o link gerado e cole no arquivo ```.env``` da pasta src
 ![image](assets/link.png)
@@ -72,7 +75,7 @@ Tabela original no Postgres:
 ![image](assets/table.png)
 
 ## Conclusão
-Se você chegou até, parabéns! Você já tem um bot integrado ao Microsfot Teams para automatizar o envio de mensagens críticas. 
+Se você chegou até aqui, parabéns! Você já tem um bot integrado ao Microsfot Teams para automatizar o envio de mensagens críticas. 
 
 ## Referências
 
